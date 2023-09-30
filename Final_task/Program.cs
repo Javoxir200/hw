@@ -11,7 +11,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 Commands();
-string[] array = new string[] {};
+string[] array = new string[] { };
 
 string fromUser = ReadInput("Введите команду: ");
 switch (fromUser)
